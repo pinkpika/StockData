@@ -1,0 +1,44 @@
+[
+    {
+        "commkey": "Dow Jones",
+        "commName": "Dow Jones Industrial Average",
+        "price": 38654.42,
+        "changePrice": 134.58
+    },
+    {
+        "commkey": "加權指數",
+        "commName": "加權指數",
+        "price": 18059.93,
+        "changePrice": 91.83
+    },
+    {
+        "commkey": "AAPL",
+        "commName": "Apple Inc.",
+        "price": 185.85,
+        "changePrice": -1.01
+    },
+    {
+        "commkey": "BA",
+        "commName": "The Boeing Company",
+        "price": 209.38,
+        "changePrice": -0.43
+    },
+    {
+        "commkey": "BRK-B",
+        "commName": "Berkshire Hathaway Inc.",
+        "price": 390.75,
+        "changePrice": 4.31
+    },
+    {
+        "commkey": "DIS",
+        "commName": "The Walt Disney Company",
+        "price": 97.13,
+        "changePrice": 0.07
+    },
+    {
+        "commkey": "GE",
+        "commName": "General Electric Company",
+        "price": 136.54,
+        "changePrice": 1.13
+    }
+]
