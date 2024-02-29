@@ -1,0 +1,30 @@
+[
+  {
+    "commkey": "Dow Jones",
+    "commName": "Dow Jones Industrial Average"
+  },
+  {
+    "commkey": "加權指數",
+    "commName": "加權指數"
+  },
+  {
+    "commkey": "AAPL",
+    "commName": "Apple Inc."
+  },
+  {
+    "commkey": "BA",
+    "commName": "The Boeing Company"
+  },
+  {
+    "commkey": "BRK-B",
+    "commName": "Berkshire Hathaway Inc."
+  },
+  {
+    "commkey": "DIS",
+    "commName": "The Walt Disney Company"
+  },
+  {
+    "commkey": "GE",
+    "commName": "General Electric Company"
+  }
+]
